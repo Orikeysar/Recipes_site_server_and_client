@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Recpies_ServerSide_ori.props" />
+</Project>

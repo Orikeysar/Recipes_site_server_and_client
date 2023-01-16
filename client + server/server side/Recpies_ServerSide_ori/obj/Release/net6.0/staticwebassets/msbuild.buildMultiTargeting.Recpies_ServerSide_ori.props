@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Recpies_ServerSide_ori.props" />
+</Project>
